@@ -1,11 +1,18 @@
-### Olá! eu sou Nathan Faria ⚡⚡
+### 👋 Hello! Welcome to my Github profile.
+### My name is Nathan and my nickname is "Nf"⚡⚡
+ 
+  ### Languages :space_invader:
   
-  ## 
  <div style="display: inline_block">
   <img align="center" alt="nf-br" height="30" width="30" src="https://img.icons8.com/color/344/brazil.png">
   <img align="center" alt="nf-fr" height="30" width="30" src="https://img.icons8.com/color/344/france.png">
   <img align="center" alt="nf-fr" height="30" width="30" src="https://img.icons8.com/color/344/canada.png">
  </div><br>
+  
+  ##
+  <div>
+   <img align="center" alt="nf-br" src="https://c.tenor.com/lplqzKb-4iUAAAAd/you-should-be-studying-cute-cat.gif">
+  </div>
 
 <div align="center">
   <a href="https://github.com/nathanfdias">
