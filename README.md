@@ -10,9 +10,7 @@
  </div><br>
   
   ##
-  <div>
-   <img align="center" alt="nf-br" src="https://c.tenor.com/lplqzKb-4iUAAAAd/you-should-be-studying-cute-cat.gif">
-  </div>
+ 
 
 <div align="center">
   <a href="https://github.com/nathanfdias">
