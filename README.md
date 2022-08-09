@@ -1,6 +1,7 @@
 ### 👋 Hello! Welcome to my Github profile.
-### My name is Nathan and my nickname is "Nf"⚡⚡
-### Computer Science Student 
+### ⚡ My name is Nathan and my nickname is "Nf"
+### 🎓 Computer Science Student 
+### 🤖 Residência em TIC || Serratec
  
   ### Languages :space_invader:
   
