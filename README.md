@@ -2,10 +2,10 @@
 ### ⚡ My name is Nathan and my nickname is "Nf"
 ### 🎓 Computer Science Student 
 ### 🤖 Residência em TIC || Serratec
- 
-  ### Languages :space_invader:
+
   
  <div style="display: inline_block">
+  # Languages :space_invader:
   <img align="center" alt="nf-br" height="30" width="30" src="https://img.icons8.com/color/344/brazil.png">
   <img align="center" alt="nf-fr" height="30" width="30" src="https://img.icons8.com/color/344/france.png">
   <img align="center" alt="nf-fr" height="30" width="30" src="https://img.icons8.com/color/344/canada.png">
