@@ -8,7 +8,7 @@
   # Languages :space_invader:
   <img align="center" alt="nf-br" height="30" width="30" src="https://img.icons8.com/color/344/brazil.png">
   <img align="center" alt="nf-fr" height="30" width="30" src="https://img.icons8.com/color/344/france.png">
-  <img align="center" alt="nf-fr" height="30" width="30" src="https://img.icons8.com/color/344/canada.png">
+  <img align="center" alt="nf-fr" height="30" width="30" src="https://img.icons8.com/color/344/usa.png">
  </div><br>
   
   ##
