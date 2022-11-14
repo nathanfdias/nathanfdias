@@ -26,6 +26,9 @@
   <img align="center" alt="Nf-JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="Nf-PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="Nf-Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img align="center" alt="Nf-React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)">
+ <img align="center" alt="Nf-React-Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+
 </div>
    
  <div style="display: inline_block"><br><br><br>
